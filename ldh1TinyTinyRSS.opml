@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Tue, 26 Jan 2016 18:00:22 +0000</dateCreated>
+    <dateCreated>Thu, 05 May 2016 15:58:10 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
     <outline type="rss" text="American Civil Liberties Union" xmlUrl="http://www.aclu.org/blog/feed/" htmlUrl="https://www.aclu.org/"/>
+    <outline type="rss" text="Ars Technica" xmlUrl="http://arstechnica.com/feed/" htmlUrl="http://arstechnica.com"/>
     <outline type="rss" text="computers" xmlUrl="https://www.reddit.com/r/computers/.rss" htmlUrl="https://www.reddit.com/r/computers/"/>
     <outline type="rss" text="Dave Winer" xmlUrl="http://radio3.io/users/davewiner/rss.xml" htmlUrl="http://scripting.com/"/>
+    <outline type="rss" text="EETimes:" xmlUrl="http://www.eetimes.com/rss_simple.asp" htmlUrl="http://www.eetimes.com"/>
     <outline type="rss" text="FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/all/feed" htmlUrl="http://fivethirtyeight.com"/>
     <outline type="rss" text="FT US" xmlUrl="http://www.ft.com/rss/home/us" htmlUrl="http://www.ft.com/home/us"/>
     <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
@@ -18,6 +20,7 @@
     <outline type="rss" text="ReadWrite" xmlUrl="http://readwrite.com/.rss/excerpt/" htmlUrl="http://readwrite.com"/>
     <outline type="rss" text="Re/code" xmlUrl="http://recode.net/feed/" htmlUrl="http://recode.net"/>
     <outline type="rss" text="Scripting News" xmlUrl="http://scripting.com/rss" htmlUrl="http://scripting.com/"/>
+    <outline type="rss" text="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="http://slashdot.org/"/>
     <outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://techcrunch.com"/>
     <outline type="rss" text="Technology" xmlUrl="https://www.reddit.com/r/technology/.rss" htmlUrl="https://www.reddit.com/r/technology/"/>
     <outline type="rss" text="Technology - Los Angeles Times" xmlUrl="http://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="http://www.latimes.com/business/technology/rss2.0.xml"/>
