@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Fri, 24 Jun 2016 19:42:00 +0000</dateCreated>
+    <dateCreated>Thu, 28 Jul 2016 19:37:41 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -11,7 +11,6 @@
     <outline type="rss" text="Dave Winer" xmlUrl="http://radio3.io/users/davewiner/rss.xml" htmlUrl="http://scripting.com/"/>
     <outline type="rss" text="EETimes:" xmlUrl="http://www.eetimes.com/rss_simple.asp" htmlUrl="http://www.eetimes.com"/>
     <outline type="rss" text="FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/all/feed" htmlUrl="http://fivethirtyeight.com"/>
-    <outline type="rss" text="FT US" xmlUrl="http://www.ft.com/rss/home/us" htmlUrl="http://www.ft.com/home/us"/>
     <outline type="rss" text="Gizmag Emerging Technology Magazine" xmlUrl="http://www.gizmag.com/xml/" htmlUrl="http://www.gizmag.com/"/>
     <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
     <outline type="rss" text="Hacker News Firehose" xmlUrl="http://hn.geekity.com/newstories.xml" htmlUrl="https://news.ycombinator.com/newest"/>
