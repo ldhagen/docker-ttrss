@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Fri, 07 Oct 2016 15:19:11 +0000</dateCreated>
+    <dateCreated>Wed, 11 Jan 2017 20:02:26 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -9,15 +9,13 @@
     <outline type="rss" text="Ars Technica" xmlUrl="http://arstechnica.com/feed/" htmlUrl="http://arstechnica.com"/>
     <outline type="rss" text="computers" xmlUrl="https://www.reddit.com/r/computers/.rss" htmlUrl="https://www.reddit.com/r/computers/"/>
     <outline type="rss" text="Dave Winer" xmlUrl="http://radio3.io/users/davewiner/rss.xml" htmlUrl="http://scripting.com/"/>
-    <outline type="rss" text="EETimes:" xmlUrl="http://www.eetimes.com/rss_simple.asp" htmlUrl="http://www.eetimes.com"/>
     <outline type="rss" text="FiveThirtyEight" xmlUrl="http://fivethirtyeight.com/all/feed" htmlUrl="http://fivethirtyeight.com"/>
-    <outline type="rss" text="Gizmag Emerging Technology Magazine" xmlUrl="http://www.gizmag.com/xml/" htmlUrl="http://www.gizmag.com/"/>
     <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
     <outline type="rss" text="Hacker News Firehose" xmlUrl="http://hn.geekity.com/newstories.xml" htmlUrl="https://news.ycombinator.com/newest"/>
     <outline type="rss" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
     <outline type="rss" text="memeorandum" xmlUrl="http://www.memeorandum.com/feed.xml" htmlUrl="http://www.memeorandum.com/"/>
     <outline type="rss" text="MoJo Blogs and Articles | Mother Jones" xmlUrl="http://www.motherjones.com/rss/blogs_and_articles/feed" htmlUrl="http://www.motherjones.com/rss/blogs_and_articles"/>
-    <outline type="rss" text="Phys.org - latest science and technology news stories" xmlUrl="http://phys.org/rss-feed/" htmlUrl="http://phys.org/"/>
+    <outline type="rss" text="Quandl Resource Hub" xmlUrl="https://blog.quandl.com/feed" htmlUrl="https://blog.quandl.com"/>
     <outline type="rss" text="ReadWrite" xmlUrl="http://readwrite.com/.rss/excerpt/" htmlUrl="http://readwrite.com"/>
     <outline type="rss" text="Re/code" xmlUrl="http://recode.net/feed/" htmlUrl="http://recode.net"/>
     <outline type="rss" text="Scripting News" xmlUrl="http://scripting.com/rss" htmlUrl="http://scripting.com/"/>
@@ -25,16 +23,13 @@
     <outline type="rss" text="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="http://techcrunch.com"/>
     <outline type="rss" text="Technology" xmlUrl="https://www.reddit.com/r/technology/.rss" htmlUrl="https://www.reddit.com/r/technology/"/>
     <outline type="rss" text="Technology - Los Angeles Times" xmlUrl="http://www.latimes.com/business/technology/rss2.0.xml" htmlUrl="http://www.latimes.com/business/technology/rss2.0.xml"/>
-    <outline type="rss" text="TheHill - The Hill News" xmlUrl="http://thehill.com/rss/syndicator/19109" htmlUrl="http://thehill.com/rss/syndicator/19109"/>
     <outline type="rss" text="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="http://www.theregister.co.uk/"/>
     <outline type="rss" text="The RISKS Digest" xmlUrl="http://catless.ncl.ac.uk/risksatom.xml" htmlUrl="http://catless.ncl.ac.uk/"/>
     <outline type="rss" text="Tiny Tiny RSS: Forum" xmlUrl="http://tt-rss.org/forum/rss.php"/>
-    <outline type="rss" text="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://www.troyhunt.com/"/>
     <outline type="rss" text="US news | The Guardian" xmlUrl="http://www.guardian.co.uk/world/usa/rss" htmlUrl="http://www.theguardian.com/us-news"/>
-    <outline type="rss" text="Vox -  All" xmlUrl="http://www.vox.com/rss/index.xml" htmlUrl="http://www.vox.com/"/>
     <outline type="rss" text="WIRED" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com"/>
     <outline type="rss" text="Zero Hedge" xmlUrl="http://feeds.feedburner.com/zerohedge/feed" htmlUrl="http://www.zerohedge.com/fullrss2.xml/James"/>
-    <outline text="tt-rss-prefs" schema-version="129">
+    <outline text="tt-rss-prefs" schema-version="130">
       <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
       <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
       <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
@@ -88,7 +83,7 @@
       <outline pref-name="USER_TIMEZONE" value="Automatic"/>
       <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
     </outline>
-    <outline text="tt-rss-labels" schema-version="129"/>
-    <outline text="tt-rss-filters" schema-version="129"/>
+    <outline text="tt-rss-labels" schema-version="130"/>
+    <outline text="tt-rss-filters" schema-version="130"/>
   </body>
 </opml>
