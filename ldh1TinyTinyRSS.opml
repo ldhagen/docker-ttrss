@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
   <head>
-    <dateCreated>Fri, 16 Jun 2017 19:54:45 +0000</dateCreated>
+    <dateCreated>Wed, 21 Jun 2017 18:22:35 +0000</dateCreated>
     <title>Tiny Tiny RSS Feed Export</title>
   </head>
   <body>
@@ -41,6 +41,7 @@
     <outline type="rss" text="US news | The Guardian" xmlUrl="http://www.guardian.co.uk/world/usa/rss" htmlUrl="http://www.theguardian.com/us-news"/>
     <outline type="rss" text="WIRED" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com"/>
     <outline type="rss" text="Zero Hedge" xmlUrl="http://feeds.feedburner.com/zerohedge/feed" htmlUrl="http://www.zerohedge.com/fullrss2.xml/James"/>
+    <outline type="rss" text="zwischenzugs" xmlUrl="https://zwischenzugs.wordpress.com/feed/" htmlUrl="https://zwischenzugs.wordpress.com"/>
     <outline text="tt-rss-prefs" schema-version="130">
       <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
       <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
