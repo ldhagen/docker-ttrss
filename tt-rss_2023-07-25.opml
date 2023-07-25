@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Tue, 25 Jul 2023 20:17:19 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline type="rss" text="AliExpress Finds" xmlUrl="https://www.reddit.com/r/aliexpressfinds.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/aliexpressfinds"/>
+    <outline type="rss" text="Ars Technica" xmlUrl="http://arstechnica.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://arstechnica.com"/>
+    <outline type="rss" text="Articles and Investigations - ProPublica" xmlUrl="http://feeds.propublica.org/propublica/main" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.propublica.org/feeds/main"/>
+    <outline type="rss" text="Crunch Hype" xmlUrl="http://feeds.feedburner.com/TechCrunch/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.crunchhype.com/"/>
+    <outline type="rss" text="Dave Winer" xmlUrl="http://scripting.com/rss.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://t.co/alwLFPBgDF"/>
+    <outline type="rss" text="ESP32 - WiFi-enabled microcontrollers from Espressif" xmlUrl="https://www.reddit.com/r/esp32.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/esp32"/>
+    <outline type="rss" text="Full Disclosure" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://seclists.org/#fulldisclosure"/>
+    <outline type="rss" text="Home Assistant" xmlUrl="https://www.reddit.com/r/homeassistant.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/homeassistant"/>
+    <outline type="rss" text="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://krebsonsecurity.com"/>
+    <outline type="rss" text="Nasdaq Data Link Blog" xmlUrl="https://blog.quandl.com/feed" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://blog.data.nasdaq.com/"/>
+    <outline type="rss" text="News – TPM – Talking Points Memo" xmlUrl="https://talkingpointsmemo.com/news/feed" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://talkingpointsmemo.com"/>
+    <outline type="rss" text="NYT &gt; Technology" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.nytimes.com/section/technology"/>
+    <outline type="rss" text="NYT &gt; Top Stories" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.nytimes.com"/>
+    <outline type="rss" text="NYT &gt; U.S. News" xmlUrl="http://rss.nytimes.com/services/xml/rss/nyt/US.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.nytimes.com/ca/section/us"/>
+    <outline type="rss" text="Pluralistic: Daily links from Cory Doctorow" xmlUrl="https://pluralistic.net/feed/" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://pluralistic.net"/>
+    <outline type="rss" text="Politics" xmlUrl="http://feeds.washingtonpost.com/rss/politics" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.washingtonpost.com/pb/politics/"/>
+    <outline type="rss" text="Politics : NPR" xmlUrl="http://www.npr.org/rss/rss.php?id=1014" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1014"/>
+    <outline type="rss" text="PravdaReport" xmlUrl="https://feeds.feedburner.com/engpravda" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://english.pravda.ru/"/>
+    <outline type="rss" text="PythonPandas" xmlUrl="https://www.reddit.com/r/PythonPandas.rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.reddit.com/r/PythonPandas"/>
+    <outline type="rss" text="Scientific American" xmlUrl="http://rss.sciam.com/basic-science" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.scientificamerican.com"/>
+    <outline type="rss" text="Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.scientificamerican.com"/>
+    <outline type="rss" text="Scientific American: Technology" xmlUrl="http://rss.sciam.com/sciam/technology" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://www.scientificamerican.com"/>
+    <outline type="rss" text="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdotMain" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://slashdot.org/"/>
+    <outline type="rss" text="Technology and the Internet" xmlUrl="http://www.latimes.com/business/technology/rss2.0.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.latimes.com"/>
+    <outline type="rss" text="The GitHub Blog" xmlUrl="https://github.com/blog/all.atom" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://github.blog/"/>
+    <outline type="rss" text="The Journal." xmlUrl="https://video-api.wsj.com/podcast/rss/wsj/the-journal" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.wsj.com/podcasts/the-journal"/>
+    <outline type="rss" text="The Real News Network" xmlUrl="https://therealnews.com/feed?partner-feed=the-real-news-network" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://therealnews.com/"/>
+    <outline type="rss" text="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.theregister.com/"/>
+    <outline type="rss" text="The RISKS Digest" xmlUrl="http://catless.ncl.ac.uk/risksatom.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://catless.ncl.ac.uk/"/>
+    <outline type="rss" text="The Texas Tribune" xmlUrl="https://feeds.texastribune.org/feeds/main/?_ga=2.223565083.1653973109.1685112376-13535722.1664292644" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.texastribune.org/"/>
+    <outline type="rss" text="Tiny Tiny RSS: Forum" xmlUrl="http://tt-rss.org/forum/rss.php" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://discourse.tt-rss.org"/>
+    <outline type="rss" text="US news | The Guardian" xmlUrl="http://www.guardian.co.uk/world/usa/rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.theguardian.com/us-news"/>
+    <outline type="rss" text="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://www.cnbc.com/us-top-news-and-analysis/"/>
+    <outline type="rss" text="Web3 is Going Just Great" xmlUrl="https://web3isgoinggreat.com/feed.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://web3isgoinggreat.com"/>
+    <outline type="rss" text="WSJ.com: WSJD" xmlUrl="https://feeds.a.dj.com/rss/RSSWSJD.xml" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="http://online.wsj.com"/>
+    <outline type="rss" text="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rss" ttrssSortOrder="0" ttrssUpdateInterval="0" htmlUrl="https://finance.yahoo.com/"/>
+    <outline text="tt-rss-prefs" schema-version="138">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="true"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="DEFAULT_SEARCH_LANGUAGE" value=""/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="false"/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="60"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="USER_CSS_THEME" value=""/>
+      <outline pref-name="USER_LANGUAGE" value="en_US"/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="adaptive"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
+      <outline pref-name="_ENABLED_PLUGINS" value=""/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="138"/>
+    <outline text="tt-rss-filters" schema-version="138"/>
+  </body>
+</opml>
